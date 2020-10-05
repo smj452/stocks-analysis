@@ -25,7 +25,7 @@ The results of the VBA run are shown below. Based on the table we can see that a
 
 **Run Time Refactored**
 
-![refactored2017]( https://github.com/smj452/stocks-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2017.png]( https://github.com/smj452/stocks-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 
 ### 2018 Stocks Analysis
@@ -41,7 +41,7 @@ Our analysis in 2018 shows that most of the green stock’s performance was low.
 
 **Run Time Refactored**
 
-![refactored2018]( https://github.com/smj452/stocks-analysis/blob/main/Resources/refactored2018.png)
+![VBA_Challenge_2018.png]( https://github.com/smj452/stocks-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 
 **Refactored Code**
