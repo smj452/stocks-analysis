@@ -14,24 +14,31 @@ The purpose of this analysis in ```VBA_Challenge.xlsm``` is to make an efficient
 
 The results of the VBA run are shown below. Based on the table we can see that almost all of the stocks were in green for 2017 with only "TERP" showing a net loss of -7.21%. The top-performing stocks for the year were "DQ", "SEDG", "ENPH" and "FSLR" respectively, with DQ almost doubling in price by the end of the year. It seems that this year was generally good one for sustainable energy stocks and anybody invested in the stocks listed below except for "TERP" would have seen a positive return on investment. Initially when we wrote our VBA script, it had a total run time of 1.015625 seconds for analysis on all Stocks in 2017. After we refactored the code the run time was reduced to 0.203125.
 
+
 ![ Allstocks2017.png]( https://github.com/smj452/stocks-analysis/blob/main/Resources/Allstocks2017.png)
+
 
 **Run Time Initial**
 
 ![2017_originalcode]( https://github.com/smj452/stocks-analysis/blob/main/Resources/2017_originalcode.png)
 
+
 **Run Time Refactored**
 
 ![refactored2017]( https://github.com/smj452/stocks-analysis/blob/main/Resources/refactored2017.png)
 
+
 ### 2018 Stocks Analysis
 Our analysis in 2018 shows that most of the green stock’s performance was low. Out of the 12 stocks we analyzed we could only find two stocks ENPH and RUN that had a positive net return in 2018. DQ’s performance was low in 2018 with a negative return of -62.60%. Our initial code took 1.054688 seconds to run. After the code was refactored and committed, it only took 0.234375 seconds to execute and give us the results making our analysis faster.
 
+
 ![ Allstocks2018.png]( https://github.com/smj452/stocks-analysis/blob/main/Resources/Allstocks2018.png)
+
 
 **Run Time Initial**
 
 ![2018_originalcode]( https://github.com/smj452/stocks-analysis/blob/main/Resources/2018_originalcode.png)
+
 
 **Run Time Refactored**
 
