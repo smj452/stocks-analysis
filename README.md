@@ -175,7 +175,7 @@ End Sub
 
 ### Code Refactoring ###
 
-Code Refactoring is a way of restructuring and optimizing already written code to improve its readability, and execution.
+Code Refactoring is a way of restructuring and optimizing already written code to improve its readability and execution.
 
 ### Advantages of Refactoring 
 - Refactoring the code helps in optimizing the performance of the code and troubleshoot for errors.
