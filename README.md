@@ -25,7 +25,7 @@ The results of the VBA run are shown below. Based on the table we can see that a
 
 **Run Time Refactored**
 
-![refactored2017]( https://github.com/smj452/stocks-analysis/blob/main/Resources/refactored2017.png)
+![refactored2017]( https://github.com/smj452/stocks-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 
 ### 2018 Stocks Analysis
