@@ -29,12 +29,14 @@ Our analysis in 2018 shows that most of the green stock’s performance was low.
 
 ![ Allstocks2018.png]( https://github.com/smj452/stocks-analysis/blob/main/Resources/Allstocks2018.png)
 
-** Run Time Initial**
+**Run Time Initial**
+
 ![2018_originalcode]( https://github.com/smj452/stocks-analysis/blob/main/Resources/2018_originalcode.png)
 
 **Run Time Refactored**
 
 ![refactored2018]( https://github.com/smj452/stocks-analysis/blob/main/Resources/refactored2018.png)
+
 
 **Refactored Code**
 ```
